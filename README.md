@@ -1,2 +1,2 @@
 # c-masalalar
-Bu yerda c dasturlash tili yordamida masalalarni yechilari bor.
+Bu yerda c dasturlash tili yordamida masalalarni yechimlari bor.

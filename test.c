@@ -7,6 +7,6 @@ int main() {
   if (son > 10)
     printf("son %d dan katta", son);
   else
-    printf(100);
+    printf(son);
   return 0;
 }
